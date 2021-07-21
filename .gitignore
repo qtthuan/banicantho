@@ -1,4 +1,5 @@
 .htaccess
+.htaccess.txt
 /config.php
 admin/config.php
 
@@ -11,6 +12,8 @@ system/cache/
 system/logs/
 
 system/storage/
+
+.idea/*
 
 # vQmod log files
 vqmod/logs/*
